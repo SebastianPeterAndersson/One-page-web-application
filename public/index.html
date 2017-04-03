@@ -29,7 +29,7 @@
       </h1>
     </div>
 
-    <div class="grid-100">
+    <div class="grid-100">x
 
       <div class="recipes">
 
@@ -44,11 +44,20 @@
     </div>
   </div>
 
-  <script src="vendor/angular.js"></script>
+  <script src="vendor/angular.min.js"></script>
   <script src="vendor/angular-route.js"></script>
 
   <!-- TODO Add script tags for your JavaScript files here -->
-    <script src="scripts/angular/app.js"></script>    
+    <!-- The Angular APP itself: -->
+    <script src="scripts/app.js"></script>
+
+    <!-- The recipe controllers: -->
+    <script src="scripts/controllers/RecipesController.js"></script>
+
+    <!-- SERVICES: -->
+    <script src="scripts/services/data.js"></script>
+
+    <!-- route config -->
     <script src="scripts/route-config.js"></script>
 </body>
 
