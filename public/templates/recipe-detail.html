@@ -1,16 +1,18 @@
+
 <div class="grid-100 row controls">
   <div class="grid-50">
     <!-- TODO Add a binding expression to display the recipe name
       when editing a recipe. When adding a recipe, display the
       static text 'Add New Recipe'. -->
-    <h2>Add/Edit Recipe</h2>
+    <h2 ng-bind="isAdd()"></h2>
+    <!-- //Add/Edit Recipe -->
   </div>
   <div class="grid-50">
     <div class="flush-right">
       <!-- TODO Add directives to both the "Save Recipe" and "Cancel"
         buttons in order to handle user clicks. -->
       <button>Save Recipe</button>
-      <button class="secondary">Cancel</button>
+      <button class="secondary" ng-click="changeURL('/')">Cancel</button>
     </div>
   </div>
 </div>

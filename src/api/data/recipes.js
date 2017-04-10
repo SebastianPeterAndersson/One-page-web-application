@@ -4,7 +4,7 @@ var recipes = [
   {
     name: 'Simple Beef Stew',
     description: 'This is the recipe from when I was in college.',
-    category: 'Soup',
+    category: 'Soupx
     prepTime: 20,
     cookTime: 145,
     ingredients: [
