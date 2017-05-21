@@ -7,7 +7,10 @@ body {
   text-align: center;
   margin: 0 auto;
   font-size: 16px;
-  padding-bottom: 80px; }
+  padding-bottom: 80px;
+  /*Fix for ng-inspector:*/
+  margin-left: 0;
+ }
 
 a {
   color: #808080;
