@@ -18,7 +18,7 @@
 
 <!-- TODO Add a directive to this div element so that it only displays
   when there are validation messages to display. -->
-<div ng-hide="!allGood" class="grid-100 row">
+<div ng-hide="allGood" class="grid-100 row">
   <div class="grid-100">
     <p><i>The following errors were found:</i></p>
     <ul class="validation-errors" ng-repeat="validation in validationMessages">
