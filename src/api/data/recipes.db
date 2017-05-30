@@ -194,3 +194,141 @@
 {"name":"Milkshake","description":"A nice, sweet, refreshing milkshake","category":"Dessert","prepTime":5,"cookTime":5,"ingredients":[{"foodItem":"Sugar","condition":"Powder","amount":"5 dl"},{"foodItem":"Water","condition":"Liquid","amount":"1 litre"},{"foodItem":"Lemons","condition":"Squeezed","amount":"2ea"}],"steps":[{"description":"Mix ingredients"},{"description":"Freeze"},{"description":"Enjoy"}],"_id":"anM7Wqituxn872Da"}
 {"name":"Milkshake (Chocolate)","description":"","category":"Dessert","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"ei91BXUxpDvzy4sr"}
 {"name":"Lemonade","description":"","category":"Beverage","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"4L1lngrlBzbzEIDY"}
+{"name":"Milkshakez","description":"A nice, sweet, refreshing milkshake","category":"Dessert","prepTime":5,"cookTime":5,"ingredients":[{"foodItem":"Sugar","condition":"Powder","amount":"5 dl"},{"foodItem":"Water","condition":"Liquid","amount":"1 litre"},{"foodItem":"Lemons","condition":"Squeezed","amount":"2ea"}],"steps":[{"description":"Mix ingredients"},{"description":"Freeze"},{"description":"Enjoy"}],"_id":"anM7Wqituxn872Da"}
+{"name":"Milkshake","description":"A nice, sweet, refreshing milkshake","category":"Dessert","prepTime":5,"cookTime":5,"ingredients":[{"foodItem":"Sugar","condition":"Powder","amount":"5 dl"},{"foodItem":"Water","condition":"Liquid","amount":"1 litre"},{"foodItem":"Lemons","condition":"Squeezed","amount":"2ea"}],"steps":[{"description":"Mix ingredients"},{"description":"Freeze"},{"description":"Enjoy"}],"_id":"anM7Wqituxn872Da"}
+{"name":"Cabbage Salad","description":"Fresh salad to add to any other meal","category":"Salad","prepTime":10,"cookTime":0,"ingredients":[{"foodItem":"Cabbage","condition":"Cut","amount":"One whole"},{"foodItem":"Cheese","condition":"Grated","amount":"50 g"},{"foodItem":"Onion","condition":"Diced","amount":"1"},{"foodItem":"Pepper","condition":"Grainy","amount":"Just a pinch"},{"foodItem":"Rice Wine Vinegar","condition":"Liquid","amount":"Just pour!"},{"foodItem":"Salt","condition":"Grainy","amount":"Just a pinch"}],"steps":[{"description":"Clean the cabbage and cut it"},{"description":"Add cheese, onion, pepper and salt"},{"description":"Mix the contents"},{"description":"Pour some vinegar in it!"},{"description":"Enjoy!"}],"_id":"rBSbw2RCIvvFpVDY"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"KhCmmcd8olFFnA0t"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"gHFPMYMag2y5YaK8"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"1wODCNBhsAAeDJN3"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"gktT15IRip1EB7cl"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"DI7CvDPzWrzFUAYa"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"Nrv7QSBos0D4Senv"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"FHjURLDaRNQhnNo9"}
+{"$$deleted":true,"_id":"1wODCNBhsAAeDJN3"}
+{"$$deleted":true,"_id":"FHjURLDaRNQhnNo9"}
+{"$$deleted":true,"_id":"gktT15IRip1EB7cl"}
+{"$$deleted":true,"_id":"KhCmmcd8olFFnA0t"}
+{"$$deleted":true,"_id":"Nrv7QSBos0D4Senv"}
+{"$$deleted":true,"_id":"DI7CvDPzWrzFUAYa"}
+{"$$deleted":true,"_id":"gHFPMYMag2y5YaK8"}
+{"$$deleted":true,"_id":"jxGiri5Lzsf5rBme"}
+{"$$deleted":true,"_id":"rBSbw2RCIvvFpVDY"}
+{"$$deleted":true,"_id":"sJ4CvZ9kHf6MIrXl"}
+{"$$deleted":true,"_id":"tsLz9ppycfHRt4Bk"}
+{"$$deleted":true,"_id":"J0wMm5CHX1szNRPY"}
+{"$$deleted":true,"_id":"Dlt8CjWYx9tAKVQA"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"9XmvRSnqqGEZhuLV"}
+{"$$deleted":true,"_id":"9XmvRSnqqGEZhuLV"}
+{"$$deleted":true,"_id":"4L1lngrlBzbzEIDY"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"U0CQjW9nOI1rZiUe"}
+{"$$deleted":true,"_id":"U0CQjW9nOI1rZiUe"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"qEv0vV82FQU7dR1N"}
+{"$$deleted":true,"_id":"qEv0vV82FQU7dR1N"}
+{"$$deleted":true,"_id":"anM7Wqituxn872Da"}
+{"$$deleted":true,"_id":"ei91BXUxpDvzy4sr"}
+{"name":"Poop","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"ja8IB6M8NeSgdFAe"}
+{"name":"Tapas","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"BjQqQDYNXOGDZl6n"}
+{"name":"Milk","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"W2OsIA3NKwE6DQ1Y"}
+{"name":"Vegetarian","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"az18CB1k9H8bQief"}
+{"name":"Hamburger","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"XTjm25Ph8IPZPIh7"}
+{"$$deleted":true,"_id":"XTjm25Ph8IPZPIh7"}
+{"$$deleted":true,"_id":"W2OsIA3NKwE6DQ1Y"}
+{"$$deleted":true,"_id":"bM7wmJ7zX8CBgBvm"}
+{"$$deleted":true,"_id":"ja8IB6M8NeSgdFAe"}
+{"$$deleted":true,"_id":"tSlTY1njS3g3pUEB"}
+{"$$deleted":true,"_id":"BjQqQDYNXOGDZl6n"}
+{"name":"Hamburger","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"SvWGhpS0VsTscH5G"}
+{"name":"Salad","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"i3owospQPWJkbbX4"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"iXrbdbRndcZpekx0"}
+{"name":"Tomato","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"zCexGZ5dltmQ37yb"}
+{"$$deleted":true,"_id":"iXrbdbRndcZpekx0"}
+{"$$deleted":true,"_id":"SvWGhpS0VsTscH5G"}
+{"$$deleted":true,"_id":"i3owospQPWJkbbX4"}
+{"$$deleted":true,"_id":"zCexGZ5dltmQ37yb"}
+{"name":"Pizza","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"dsV5APY2wUDI2wlM"}
+{"name":"Waffles","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"1NqW2HawwDTrJqaM"}
+{"name":"Pancakes","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"o92EYgutlevAaNVn"}
+{"name":"Pytt i Panna","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"dBjCBie5CD5pS3Jv"}
+{"name":"Orange Juice","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"q2M6j2NPpbEwSKiR"}
+{"$$deleted":true,"_id":"q2M6j2NPpbEwSKiR"}
+{"$$deleted":true,"_id":"o92EYgutlevAaNVn"}
+{"$$deleted":true,"_id":"dsV5APY2wUDI2wlM"}
+{"name":"Pytt i Panna","description":"","category":"Dessert","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"dBjCBie5CD5pS3Jv"}
+{"name":"Vegetarian","description":"","category":"Beverage","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"az18CB1k9H8bQief"}
+{"name":"Waffles","description":"","category":"Entree","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"1NqW2HawwDTrJqaM"}
+{"$$deleted":true,"_id":"dBjCBie5CD5pS3Jv"}
+{"$$deleted":true,"_id":"az18CB1k9H8bQief"}
+{"name":"Pie","description":"","category":"Appetizer/Snack","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"JISrWGFRVXDhbGLY"}
+{"$$deleted":true,"_id":"JISrWGFRVXDhbGLY"}
+{"$$deleted":true,"_id":"1NqW2HawwDTrJqaM"}
+{"name":"Waffles","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"KashCT5dxGcs4PsX"}
+{"name":"Pie","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"x28oGLPa3fdQvZUC"}
+{"name":"Soup","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"1XnacEfAqxZt7j3I"}
+{"name":"Sandwich","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"W1wHotq6W7smSt1G"}
+{"$$deleted":true,"_id":"x28oGLPa3fdQvZUC"}
+{"$$deleted":true,"_id":"W1wHotq6W7smSt1G"}
+{"$$deleted":true,"_id":"1XnacEfAqxZt7j3I"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"gpP8tPUIveZPx74T"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"X7oF5s3SWywSXKVj"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"MD0JtvjZ7ptkh583"}
+{"$$deleted":true,"_id":"MD0JtvjZ7ptkh583"}
+{"$$deleted":true,"_id":"X7oF5s3SWywSXKVj"}
+{"$$deleted":true,"_id":"gpP8tPUIveZPx74T"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"x7wdo2GzVo0Zu1vM"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"G93EDKlZzHshyb7d"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"pjTuiH9hFErxmaIb"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"jDQ4Qeok8Ml3rwcv"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"7fe3p7PESz6ZyGuz"}
+{"$$deleted":true,"_id":"7fe3p7PESz6ZyGuz"}
+{"$$deleted":true,"_id":"G93EDKlZzHshyb7d"}
+{"$$deleted":true,"_id":"jDQ4Qeok8Ml3rwcv"}
+{"$$deleted":true,"_id":"KashCT5dxGcs4PsX"}
+{"$$deleted":true,"_id":"pjTuiH9hFErxmaIb"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"cSWLAJQF6og8zSoJ"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"JrdgJ9G3xGjkJIaP"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"YH0Ya5yyWVdXJBRX"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"j6DM1MdlMRlYwQUH"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"lsJnIKektYnSob4i"}
+{"name":"","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"sI2BQbqzFfRrhqvi"}
+{"$$deleted":true,"_id":"JrdgJ9G3xGjkJIaP"}
+{"name":"Hamburger","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"YH0Ya5yyWVdXJBRX"}
+{"name":"Frog","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"cSWLAJQF6og8zSoJ"}
+{"name":"Snails","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"hfdQUtwnSoWLVKH6"}
+{"name":"Frog","description":"","category":"Appetizer/Snack","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"cSWLAJQF6og8zSoJ"}
+{"name":"Hamburger","description":"","category":"Entree","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"YH0Ya5yyWVdXJBRX"}
+{"name":"Snails","description":"","category":"Appetizer/Snack","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"hfdQUtwnSoWLVKH6"}
+{"name":"Pizza","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"x7wdo2GzVo0Zu1vM"}
+{"name":"Onion Soup","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"UkgeWiij8PT04scn"}
+{"name":"Garlic Bread","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"cwyoMES84iNO1CQn"}
+{"name":"Bolognese","description":"","category":"Entree","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"sI2BQbqzFfRrhqvi"}
+{"name":"5-$-Shake","description":"","category":"Dessert","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"lsJnIKektYnSob4i"}
+{"name":"Onion Soup","description":"","category":"Soup","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"UkgeWiij8PT04scn"}
+{"name":"Blood Pudding","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"j6DM1MdlMRlYwQUH"}
+{"name":"Funny Shrooms","description":"","category":"Other","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"lzF0eOQcCDrblNVK"}
+{"name":"Special Cookie","description":"","category":"Other","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"dbuTSOxnJ8r2dNKq"}
+{"name":"Sallad Toss","description":"","category":"Salad","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"zc5yiOLXVDpgheHl"}
+{"name":"Knuckle Sandwich","description":"","category":"Appetizer/Snack","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"WTGY6j0GPrBtW9wa"}
+{"name":"BBQ Fried Shrimp","description":"","category":"Side Dish","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"COpTJQQJX2DmG22c"}
+{"name":"Fat cheese on the Grill","description":"","category":"Side Dish","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"mpdpFEVBre7qsSMj"}
+{"name":"Mozarella Sticks","description":"","category":"Side Dish","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"YAgSrIt9kXbDIshO"}
+{"name":"Pilgrim Clams","description":"","category":"Side Dish","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"IB2qEQDhc6tuyDHy"}
+{"name":"Chili Halloumi","description":"","category":"Side Dish","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"QPvApWjR4DODZZD0"}
+{"name":"Veggie Soup","description":"","category":"Soup","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"PixSy2ql7MqhkfOi"}
+{"name":"Broccoli Soup","description":"","category":"Soup","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"N0gqJ9FKYVVT8aUh"}
+{"name":"Meat Soup","description":"","category":"Soup","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"Yhb9YoEJPIaiItgz"}
+{"name":"Pea Soup","description":"","category":"Soup","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"jT9dz4mYY4MuwPPk"}
+{"name":"Beer","description":"","category":"Beverage","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"xAO2goDVBzgfGlOJ"}
+{"name":"Cider","description":"","category":"Beverage","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"jBmaHSfEKqtdyPWL"}
+{"name":"Milk","description":"","category":"Beverage","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"Sad1InBMBSBq4VMY"}
+{"name":"Lemonade (red)","description":"","category":"Beverage","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"4cGM1AZBDuzALloY"}
+{"name":"Lemonade (green)","description":"","category":"Beverage","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"SK5hB9uC9kYtxpgI"}
+{"name":"Lemonade (blue)","description":"","category":"","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"391IXv4UpRTzuC6l"}
+{"name":"Cremé Brulé","description":"","category":"Dessert","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"TAPQtpP5qNGUyejO"}
+{"name":"Hot Cheesecake","description":"","category":"Dessert","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"LvKotgzttmCYKWOy"}
+{"name":"Nougat Screen","description":"","category":"Dessert","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"GT37MamYJd57XJE8"}
+{"name":"Pannacotta","description":"","category":"Dessert","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"l8NkFSXWqpgeUfap"}
+{"name":"Mc Donalds Flurry","description":"","category":"Dessert","prepTime":"","cookTime":"","ingredients":[],"steps":[],"_id":"4TjWYlca7Mi7XpnI"}
+{"name":"Cremé Brulé","description":"Juicy on the inside, hard as a rock on the surface. Brings joy to the mouth","category":"Dessert","prepTime":20,"cookTime":25,"ingredients":[],"steps":[],"_id":"TAPQtpP5qNGUyejO"}
+{"name":"Cremé Brulé","description":"Juicy on the inside, hard as a rock on the surface. Brings joy to the mouth","category":"Dessert","prepTime":20,"cookTime":25,"ingredients":[{"foodItem":"Egg","condition":"Yolk","amount":"2"},{"foodItem":"Water","condition":"With cream","amount":"3 dl"},{"foodItem":"Sugar","condition":"Grains","amount":"2 dl"},{"foodItem":"Sugar","condition":"Vanilla Extract","amount":"2 tsk"}],"steps":[{"description":"Dry ingredients first"},{"description":"Second, wet"},{"description":"Cook"},{"description":"Eat"}],"_id":"TAPQtpP5qNGUyejO"}
+{"name":"Cremé Brulé","description":"Juicy on the inside, hard as a rock on the surface. Brings joy to the mouth","category":"Dessert","prepTime":20,"cookTime":25,"ingredients":[{"foodItem":"Egg","condition":"Yolk","amount":"2"},{"foodItem":"Water","condition":"With cream","amount":"3 dl"},{"foodItem":"Sugar","condition":"Grains","amount":"2 dl"},{"foodItem":"Sugar","condition":"Vanilla Extract","amount":"2 tsk"}],"steps":[{"description":"Dry ingredients first"},{"description":"Second, wet"},{"description":"Cook"},{"description":"Eat"}],"_id":"TAPQtpP5qNGUyejO"}
+{"name":"Cremé Brulé","description":"Juicy on the inside, hard as a rock on the surface. Brings joy to the mouth","category":"Dessert","prepTime":20,"cookTime":25,"ingredients":[{"foodItem":"Egg","condition":"Yolk","amount":"2"},{"foodItem":"Water","condition":"Hot","amount":"3 dl"},{"foodItem":"Sugar","condition":"Grains","amount":"2 dl"},{"foodItem":"Sugar","condition":"Vanilla Extract","amount":"2 tsk"}],"steps":[{"description":"Dry ingredients first"},{"description":"Second, wet"},{"description":"Cook"},{"description":"Eat"}],"_id":"TAPQtpP5qNGUyejO"}
